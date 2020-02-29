@@ -386,7 +386,7 @@
             "Key": "7fb7cdc2-ce2f-46f2-978f-c6ec1ac557a9",
             "Value": {
                 "id": "aa4fdeb5-645c-4d66-b1cb-b80e59ffda2e",
-                "resourcePath": "objects\\object1\\object1.yy",
+                "resourcePath": "objects\\oBackround\\oBackround.yy",
                 "resourceType": "GMObject"
             }
         },
