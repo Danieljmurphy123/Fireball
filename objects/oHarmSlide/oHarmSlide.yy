@@ -1,8 +1,8 @@
 {
-    "id": "5c0f29a5-ec71-484f-b17a-119643330a68",
+    "id": "d84984ba-c338-46ab-98da-311919911684",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object2",
+    "name": "oHarmSlide",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "d7ffcd3b-a177-47ed-9053-40f472e1a206",
     "visible": true
 }

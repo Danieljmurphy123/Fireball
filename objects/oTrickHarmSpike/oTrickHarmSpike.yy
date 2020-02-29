@@ -1,8 +1,8 @@
 {
-    "id": "27bf6369-8c10-4ed0-8294-ea26c270cc45",
+    "id": "ceafda81-79d7-4393-985c-67ca1b06b927",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object4",
+    "name": "oTrickHarmSpike",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "5238e448-d453-44f2-a15f-aafff85917fb",
     "visible": true
 }

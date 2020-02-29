@@ -63,19 +63,19 @@
             }
         },
         {
+            "Key": "05de6f84-9804-4d8a-8c11-fd453e20beeb",
+            "Value": {
+                "id": "89282e2a-18a1-420b-960c-3a6aa0f5b8d2",
+                "resourcePath": "objects\\oArrow\\oArrow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "09979e59-e8cd-497f-b4a5-638c2bdb5803",
             "Value": {
                 "id": "736a2f4e-b89d-4c15-b117-d88818028720",
                 "resourcePath": "views\\09979e59-e8cd-497f-b4a5-638c2bdb5803.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "09e647b0-3ef1-4784-9d6d-f49d4c32a6bb",
-            "Value": {
-                "id": "1e25744e-b2a3-43ae-b9e5-06cb47f0818d",
-                "resourcePath": "sprites\\sOptions\\sOptions.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -138,7 +138,15 @@
             "Key": "27bf6369-8c10-4ed0-8294-ea26c270cc45",
             "Value": {
                 "id": "da191213-99c1-4f2f-b472-048581a1a66c",
-                "resourcePath": "objects\\object4\\object4.yy",
+                "resourcePath": "objects\\oEnd\\oEnd.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2910b106-9800-488a-bcfb-72c7a457dd0a",
+            "Value": {
+                "id": "8dd0cdda-a01b-4f07-bcdc-7b56b4b8e865",
+                "resourcePath": "objects\\oTrickHarmBlock\\oTrickHarmBlock.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -172,6 +180,22 @@
                 "id": "d6734f62-5443-432b-a7ca-42784707bf3d",
                 "resourcePath": "rooms\\room19\\room19.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3488cf5f-c69b-4873-8b04-084f5c9cd36d",
+            "Value": {
+                "id": "bc80293f-3ab3-4eb2-a181-ba983155113e",
+                "resourcePath": "objects\\oPlayerDouble\\oPlayerDouble.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "356ee270-8a8f-48d0-b26e-b632fa88293a",
+            "Value": {
+                "id": "72d3d701-37a3-4e1d-bee9-f3c673e5aac3",
+                "resourcePath": "objects\\oIncreseSpeedPortal\\oIncreseSpeedPortal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -250,7 +274,7 @@
             "Key": "5c0f29a5-ec71-484f-b17a-119643330a68",
             "Value": {
                 "id": "8fa6cf3d-eb64-4f0b-b2af-ad22deda5730",
-                "resourcePath": "objects\\object2\\object2.yy",
+                "resourcePath": "objects\\oHarmSpike\\oHarmSpike.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -362,7 +386,7 @@
             "Key": "7bc83b44-d0c4-4751-992d-998c28e7459b",
             "Value": {
                 "id": "53103ecb-2ce9-4a6d-8321-306c11ead9df",
-                "resourcePath": "objects\\object6\\object6.yy",
+                "resourcePath": "objects\\oHarmBlock\\oHarmBlock.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -410,7 +434,7 @@
             "Key": "8e68678e-6305-4858-b392-e9c1a6dfc1cf",
             "Value": {
                 "id": "ac5dfdf1-bbf1-43b6-9354-e2d2266afbae",
-                "resourcePath": "objects\\object5\\object5.yy",
+                "resourcePath": "objects\\oEndSpike\\oEndSpike.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -452,6 +476,30 @@
                 "id": "82eb0242-c287-457e-ab0c-0a2089b09dff",
                 "resourcePath": "rooms\\room3\\room3.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a230f32a-cba3-4b6c-bc31-bb5e40c74eaa",
+            "Value": {
+                "id": "82a29c6a-b347-4546-bb13-49c539e91c9a",
+                "resourcePath": "objects\\oPowerup1\\oPowerup1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aa696975-048a-4b1d-aec9-cbb8e80c256a",
+            "Value": {
+                "id": "19f3f6cb-744e-4318-972d-7bd41a6afb5e",
+                "resourcePath": "objects\\oTrickHarmSlide\\oTrickHarmSlide.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "acb2c2f3-c2dc-4eaa-ad3a-e90fae29a2b3",
+            "Value": {
+                "id": "913ad7f7-76ff-4da6-bd01-522aee375a53",
+                "resourcePath": "objects\\oReverseControlsPortal\\oReverseControlsPortal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -543,19 +591,19 @@
             }
         },
         {
-            "Key": "c93f1284-2234-4455-9f99-c1f099fd3388",
-            "Value": {
-                "id": "471f63a3-5498-48b0-99ca-e2d187854fd3",
-                "resourcePath": "objects\\object3\\object3.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "f9742755-6de6-4b60-bebb-2a555708d9d1",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "ceafda81-79d7-4393-985c-67ca1b06b927",
+            "Value": {
+                "id": "4e0ab40f-5a82-4d76-a0cc-00a446cb18bf",
+                "resourcePath": "objects\\oTrickHarmSpike\\oTrickHarmSpike.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -618,7 +666,7 @@
             "Key": "d84984ba-c338-46ab-98da-311919911684",
             "Value": {
                 "id": "08ed1fa9-78bd-458a-bed7-0bf82ce842c6",
-                "resourcePath": "objects\\object7\\object7.yy",
+                "resourcePath": "objects\\oHarmSlide\\oHarmSlide.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -636,6 +684,14 @@
                 "id": "d10db423-f77c-4d83-a2d9-2fec23cbbf8c",
                 "resourcePath": "sprites\\sReverseControlsPortal\\sReverseControlsPortal.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df5149e5-296d-468b-a926-581acd02a600",
+            "Value": {
+                "id": "44cc716c-1c7e-443d-af6d-e311839f244e",
+                "resourcePath": "objects\\oPlayButton\\oPlayButton.yy",
+                "resourceType": "GMObject"
             }
         },
         {

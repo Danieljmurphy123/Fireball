@@ -1,8 +1,8 @@
 {
-    "id": "d84984ba-c338-46ab-98da-311919911684",
+    "id": "a230f32a-cba3-4b6c-bc31-bb5e40c74eaa",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object7",
+    "name": "oPowerup1",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "aebf3a5f-6dde-4ad3-bf72-a608e41b09df",
     "visible": true
 }
