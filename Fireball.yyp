@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "ae3b31cd-ad7c-404f-94ed-abbfae236e5c",
+            "Value": {
+                "id": "c89b8164-a61c-47cb-9105-b39e59284450",
+                "resourcePath": "objects\\oMusic\\oMusic.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "aebf3a5f-6dde-4ad3-bf72-a608e41b09df",
             "Value": {
                 "id": "0b0038c0-7e4a-42ff-9b13-042ae666d20b",
