@@ -13,11 +13,6 @@ if (room = 6)
 	x = x + 0
 }
 else
-if (room = 8)
-{
-	x = x + 0.06
-}
-else
 x = x + 3    
 
 

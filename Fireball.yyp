@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "321406c0-2fbd-4287-8c84-2bc5c944ea67",
+            "Value": {
+                "id": "0abdd5f2-1c55-44b0-a40c-bc4fe7148709",
+                "resourcePath": "sprites\\sHarmCircle\\sHarmCircle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3488cf5f-c69b-4873-8b04-084f5c9cd36d",
             "Value": {
                 "id": "bc80293f-3ab3-4eb2-a181-ba983155113e",
@@ -260,6 +268,14 @@
                 "id": "8771bd21-29bd-4a27-b7e0-c0cded5a7321",
                 "resourcePath": "sprites\\sTrickHarmSlide\\sTrickHarmSlide.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "517d33fe-e262-4a72-93d6-e3c37036fbc5",
+            "Value": {
+                "id": "36910664-17d4-40ba-a8aa-f64090761928",
+                "resourcePath": "objects\\oHarmCircle\\oHarmCircle.yy",
+                "resourceType": "GMObject"
             }
         },
         {

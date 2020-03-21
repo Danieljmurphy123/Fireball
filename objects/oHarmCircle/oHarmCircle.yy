@@ -1,23 +1,14 @@
 {
-    "id": "e556289e-2126-49d8-9ef7-6455340abd2b",
+    "id": "517d33fe-e262-4a72-93d6-e3c37036fbc5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oBigRedButton",
+    "name": "oHarmCircle",
     "eventList": [
-        {
-            "id": "f4416e71-215a-4d69-863c-ad13e668919a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 76,
-            "eventtype": 9,
-            "m_owner": "e556289e-2126-49d8-9ef7-6455340abd2b"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "7bc83b44-d0c4-4751-992d-998c28e7459b",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e008852a-b065-4621-8f66-3914492ce6e9",
+    "spriteId": "321406c0-2fbd-4287-8c84-2bc5c944ea67",
     "visible": true
 }
