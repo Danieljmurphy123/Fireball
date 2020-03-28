@@ -1,1 +1,4 @@
-room_goto_next()
+if (!room = 0)
+{
+      room_goto_next()
+}
