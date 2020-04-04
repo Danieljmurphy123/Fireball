@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "77f749fa-8cd4-4cb5-894a-5f572ac50fda",
+            "Value": {
+                "id": "5ec73770-cce9-45b1-be90-2d21b2bf5379",
+                "resourcePath": "sprites\\sSignature\\sSignature.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "79a175a9-0e0f-4389-b693-9b58396e7aca",
             "Value": {
                 "id": "551bd25f-301d-4a9b-b073-f8eb32663d9c",
@@ -499,6 +507,14 @@
             "Value": {
                 "id": "82a29c6a-b347-4546-bb13-49c539e91c9a",
                 "resourcePath": "objects\\oPowerup1\\oPowerup1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a4de7185-74c3-42f4-a3a1-80ddbc944d40",
+            "Value": {
+                "id": "919fcc9d-8ed4-49e7-8218-dac4253a12df",
+                "resourcePath": "objects\\oSignature\\oSignature.yy",
                 "resourceType": "GMObject"
             }
         },

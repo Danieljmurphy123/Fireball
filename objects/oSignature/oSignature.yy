@@ -1,19 +1,10 @@
 {
-    "id": "ae3b31cd-ad7c-404f-94ed-abbfae236e5c",
+    "id": "a4de7185-74c3-42f4-a3a1-80ddbc944d40",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oMusic",
+    "name": "oSignature",
     "eventList": [
-        {
-            "id": "f0fa86f6-012a-41ec-8a58-5a8f289cda43",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 2,
-            "eventtype": 7,
-            "m_owner": "ae3b31cd-ad7c-404f-94ed-abbfae236e5c"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "77f749fa-8cd4-4cb5-894a-5f572ac50fda",
     "visible": true
 }
